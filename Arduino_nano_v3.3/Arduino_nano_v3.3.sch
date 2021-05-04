@@ -837,7 +837,7 @@ D13SCK
 Text Label 7725 5975 0    50   ~ 0
 RESET
 Text Label 9525 5875 2    50   ~ 0
-D1
+D1TX
 $Comp
 L power:+5V #PWR0120
 U 1 1 60A51404
